@@ -1,6 +1,9 @@
 # customer-service-bot
 # 🎙️ Voice-Based Customer Service Bot
 
+# Here is the link given for the voice assistant that is made from the Events lab
+# https://elevenlabs.io/app/talk-to?agent_id=agent_01k0m7yanaf7x99a4xzha8fdwm
+
 This is a voice-interactive customer service bot built using Python. It listens to user queries via microphone input, understands spoken commands, and responds with speech using text-to-speech (TTS). The bot simulates a basic customer service assistant capable of answering common support questions and guiding users.
 
 ---
